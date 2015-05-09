@@ -1,7 +1,7 @@
 # pearled-essay-template
 An essay template for pearled silly billies on Civcraft. 
 
-Feel free to do whatever you want with this. 
+Feel free to do whatever you want with this. Anyone may edit this to their specifications. 
 
 ------------------------
 
@@ -53,6 +53,6 @@ Feel free to do whatever you want with this.
 
 * Acknowledge that if you are pearled again for criminal activity, you agree to no less than 6 months in the end, with an indefinite maximum end time penalty depending on the scale of the criminal activity, regardless of the jurisdiction of the vault that you are held in.
 
-* Acknowledge that if you are pearled by the Commonwealth for criminal activity again, you agree to an indefinite pearling, up to and including a permanent pearling, entirely at our discretion.
+* Acknowledge that if you are pearled by <insert your city name here> for criminal activity again, you agree to an indefinite pearling, up to and including a permanent pearling, entirely at our discretion.
 
 * Acknowledge <insert your city name here> giving you a second chance, and thank <insert your city name here> for doing so.
