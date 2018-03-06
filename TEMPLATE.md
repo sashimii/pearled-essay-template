@@ -5,7 +5,7 @@ Feel free to do whatever you want with this. Anyone may edit this to their speci
 
 ------------------------
 
-##First Paragraph: Who You are
+## First Paragraph: Who You are
 
 * Your Name
 
@@ -20,7 +20,7 @@ Feel free to do whatever you want with this. Anyone may edit this to their speci
 * When you were caught, and the city you were caught by.
 
 
-##Second Paragraph: The Crime
+## Second Paragraph: The Crime
 
 * Mention each crime you have committed, since joining the server, in chronological order.
 
@@ -29,9 +29,9 @@ Feel free to do whatever you want with this. Anyone may edit this to their speci
 * Explain how each crime is morally wrong and unacceptable. Provide examples of what would occur if your criminal activity was kept unchecked in a civil society.
 
 
-##Third Paragraph: The Apology
+## Third Paragraph: The Apology
 
-* For each crime committed, list the individuals you have effected negatively through your criminal activities, and how those crimes have effected their livelihoods in a negative fashion.
+* For each crime committed, list the individuals you have affected negatively through your criminal activities, and how those crimes have affected their livelihoods in a negative fashion.
 
 * List the reparations that you will pay to each individual, or have paid already.
 
@@ -40,7 +40,7 @@ Feel free to do whatever you want with this. Anyone may edit this to their speci
 * List examples of the extra mile that you will go to help make amends, asides from simply paying reparations, upon release.
 
 
-##Fourth Paragraph: Ensuring Zero Recidivism 
+## Fourth Paragraph: Ensuring Zero Recidivism 
 
 * What will you do in order to refrain from criminal activities?
 
@@ -49,7 +49,7 @@ Feel free to do whatever you want with this. Anyone may edit this to their speci
 * How will you assure to innocent civilians that you will no longer commit criminal activities?
 
 
-##Concluding Paragraph: Acknowledging Your Second, and Probably Final Chance
+## Concluding Paragraph: Acknowledging Your Second, and Probably Final Chance
 
 * Acknowledge that if you are pearled again for criminal activity, you agree to no less than 6 months in the end, with an indefinite maximum end time penalty depending on the scale of the criminal activity, regardless of the jurisdiction of the vault that you are held in.
 
