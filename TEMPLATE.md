@@ -51,7 +51,7 @@ Feel free to do whatever you want with this. Anyone may edit this to their speci
 
 ## Concluding Paragraph: Acknowledging Your Second, and Probably Final Chance
 
-* Acknowledge that if you are pearled again for criminal activity, you agree to no less than 6 months in the end, with an indefinite maximum end time penalty depending on the scale of the criminal activity, regardless of the jurisdiction of the vault that you are held in.
+* Acknowledge that if you are pearled again for criminal activity (raiding, murder, theft, griefing), you give your consent to every jurisdiction on the server that you will serve no less than 6 months in the end, and further consenting to an indefinite maximum end time penalty depending on the scale of the criminal activity. 
 
 * Acknowledge that if you are pearled by *\<insert your city name here\>* for criminal activity again, you agree to an indefinite pearling, up to and including a permanent pearling, entirely at our discretion.
 
